@@ -95,7 +95,7 @@ def get_program_data(program_type):
 
             move(filename, os.path.join(statePath, districtText.lower().replace(" ", "_")+".xlsx"))
             csv_name = os.path.join(statePath, districtText.lower().replace(" ", "_")+".csv")
-            print(csv_name)
+            # print(csv_name)
             df.to_csv(csv_name, index=False)
 
             time.sleep(1)

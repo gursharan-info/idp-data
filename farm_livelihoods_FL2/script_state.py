@@ -87,7 +87,7 @@ def get_state_data(program_type):
         statePath = os.path.join(programPath, stateText.lower().replace(" ", "_"))
         move(filename, statePath+".xlsx")
         csv_name = os.path.join(programPath, stateText.lower().replace(" ", "_")+".csv")
-        print(statePath, programPath, csv_name)
+        # print(statePath, programPath, csv_name)
         
         df.to_csv(csv_name, index=False)
 
@@ -107,7 +107,7 @@ def get_state_data(program_type):
 def clear_checkboxes():
     program_types = ['all','Nretp','Mksp','Sraap']
     for program_type in program_types:
-        print(program_type.upper())
+        # print(program_type.upper())
         programButton = driver.find_element_by_xpath('//input[@value="'+program_type+'"]')
         if programButton.get_attribute("checked") == "true":
             programButton.click()

@@ -59,7 +59,7 @@ def scrapeCRB_singleDay(curr_date, year, driver):
     list_of_files = glob.glob(os.path.join(dir_path, 'district-wise-fire*.csv') ) # * means all if need specific format then *.csv
 #     print(list_of_files)
     filename = max(list_of_files,key=os.path.getctime)
-    print(filename)
+    # print(filename)
     new_filename = os.path.join(dir_path+"\\"+year, r"CRB_"+curr_date.strftime('%d-%m-%Y')+".csv")
     os.rename(filename,new_filename)
     
@@ -81,7 +81,7 @@ def startScraping(start_date, end_date, year, URL):
     e_date = datetime.strptime(edate, "%d-%m-%Y").date()  # end date
 
     all_dates = pd.date_range(s_date,e_date,freq='d')
-    print(all_dates)
+    # print(all_dates)
     
     year_path = os.path.join(os.getcwd(), "CRB_Data\\"+year)
     if not os.path.exists(year_path):
@@ -94,20 +94,20 @@ def startScraping(start_date, end_date, year, URL):
             try:
                 date_input_present = EC.presence_of_element_located((By.XPATH, "//input[@id='StartTime']"))
                 WebDriverWait(driver, 10).until(date_input_present)
-                print(curr_date, "try block")
+                # print(curr_date, "try block")
 
                 current_date_df = scrapeCRB_singleDay(curr_date, year, driver )
                 year_df.append(current_date_df)
 
             except TimeoutException:
                 print("Timed out waiting for page to load")
-                print(curr_date, "Time out exception")
+                # print(curr_date, "Time out exception")
                 driver.refresh()
                 continue
     
             except NoSuchElementException:
                 print("Element not found exception")
-                print(curr_date)
+                # print(curr_date)
                 driver.refresh()
                 continue
     
