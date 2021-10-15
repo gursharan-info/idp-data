@@ -1,0 +1,716 @@
+state_name,district_name,state_code,state_name_lgd,district_code,district_name_lgd
+ANDHRA PRADESH,ANANTAPUR,28,ANDHRA PRADESH                                    ,502,ANANTAPUR
+ANDHRA PRADESH,CHITTOOR,28,ANDHRA PRADESH                                    ,503,CHITTOOR
+ANDHRA PRADESH,CUDDAPAH,28,ANDHRA PRADESH                                    ,504,Y.S.R.
+ANDHRA PRADESH,EAST GODAVARI,28,ANDHRA PRADESH                                    ,505,EAST GODAVARI
+ANDHRA PRADESH,GUNTUR,28,ANDHRA PRADESH                                    ,506,GUNTUR
+ANDHRA PRADESH,KRISHNA,28,ANDHRA PRADESH                                    ,510,KRISHNA
+ANDHRA PRADESH,KURNOOL,28,ANDHRA PRADESH                                    ,511,KURNOOL
+ANDHRA PRADESH,NELLORE,28,ANDHRA PRADESH                                    ,515,SPSR NELLORE
+ANDHRA PRADESH,PRAKASAM,28,ANDHRA PRADESH                                    ,517,PRAKASAM
+ANDHRA PRADESH,SRIKAKULAM,28,ANDHRA PRADESH                                    ,519,SRIKAKULAM
+ANDHRA PRADESH,VISAKHAPATANAM,28,ANDHRA PRADESH                                    ,520,VISAKHAPATANAM
+ANDHRA PRADESH,VIZIANAGARAM,28,ANDHRA PRADESH                                    ,521,VIZIANAGARAM
+ANDHRA PRADESH,WEST GODAVARI,28,ANDHRA PRADESH                                    ,523,WEST GODAVARI
+ARUNACHAL PRADESH,ANJAW,12,ARUNACHAL PRADESH                                 ,628,ANJAW
+ARUNACHAL PRADESH,CHANGLANG,12,ARUNACHAL PRADESH                                 ,229,CHANGLANG
+ARUNACHAL PRADESH,EAST KAMENG,12,ARUNACHAL PRADESH                                 ,231,EAST KAMENG
+ARUNACHAL PRADESH,EAST SIANG,12,ARUNACHAL PRADESH                                 ,232,EAST SIANG
+ARUNACHAL PRADESH,KAMLE,12,ARUNACHAL PRADESH                                 ,718,KAMLE
+ARUNACHAL PRADESH,KRA-DAADI,12,ARUNACHAL PRADESH                                 ,677,KRA  DAADI
+ARUNACHAL PRADESH,KURUNG KUMEY,12,ARUNACHAL PRADESH                                 ,233,KURUNG KUMEY
+ARUNACHAL PRADESH,LEPARADA,12,ARUNACHAL PRADESH                                 ,724,LEPARADA
+ARUNACHAL PRADESH,LOHIT,12,ARUNACHAL PRADESH                                 ,234,LOHIT
+ARUNACHAL PRADESH,LONGDING,12,ARUNACHAL PRADESH                                 ,666,LONGDING
+ARUNACHAL PRADESH,LOWER DIBANG VALLEY,12,ARUNACHAL PRADESH                                 ,235,LOWER DIBANG VALLEY
+ARUNACHAL PRADESH,LOWER SIANG,12,ARUNACHAL PRADESH                                 ,719,LOWER SIANG
+ARUNACHAL PRADESH,LOWER SUBANSIRI,12,ARUNACHAL PRADESH                                 ,236,LOWER SUBANSIRI
+ARUNACHAL PRADESH,NAMSAI,12,ARUNACHAL PRADESH                                 ,678,NAMSAI
+ARUNACHAL PRADESH,PAKKE KESSANG,12,ARUNACHAL PRADESH                                 ,723,PAKKE KESSANG
+ARUNACHAL PRADESH,PAPUM PARE,12,ARUNACHAL PRADESH                                 ,237,PAPUM PARE
+ARUNACHAL PRADESH,SHI YOMI,12,ARUNACHAL PRADESH                                 ,725,SHI YOMI
+ARUNACHAL PRADESH,SIANG,12,ARUNACHAL PRADESH                                 ,679,SIANG
+ARUNACHAL PRADESH,TAWANG,12,ARUNACHAL PRADESH                                 ,238,TAWANG
+ARUNACHAL PRADESH,TIRAP,12,ARUNACHAL PRADESH                                 ,239,TIRAP
+ARUNACHAL PRADESH,UPPER DIBANG VALLEY,12,ARUNACHAL PRADESH                                 ,230,DIBANG VALLEY
+ARUNACHAL PRADESH,UPPER SIANG,12,ARUNACHAL PRADESH                                 ,240,UPPER SIANG
+ARUNACHAL PRADESH,UPPER SUBANSIRI,12,ARUNACHAL PRADESH                                 ,241,UPPER SUBANSIRI
+ARUNACHAL PRADESH,WEST KAMENG,12,ARUNACHAL PRADESH                                 ,242,WEST KAMENG
+ARUNACHAL PRADESH,WEST SIANG,12,ARUNACHAL PRADESH                                 ,243,WEST SIANG
+ASSAM,BAKSA,18,ASSAM                                             ,616,BAKSA
+ASSAM,BARPETA,18,ASSAM                                             ,280,BARPETA
+ASSAM,Biswanath,18,ASSAM                                             ,705,BISWANATH
+ASSAM,BONGAIGAON,18,ASSAM                                             ,281,BONGAIGAON
+ASSAM,CACHAR,18,ASSAM                                             ,282,CACHAR
+ASSAM,CHARAIDEO,18,ASSAM                                             ,708,CHARAIDEO
+ASSAM,CHIRANG,18,ASSAM                                             ,612,CHIRANG
+ASSAM,DARRANG,18,ASSAM                                             ,283,DARRANG
+ASSAM,DHEMAJI,18,ASSAM                                             ,284,DHEMAJI
+ASSAM,DHUBRI,18,ASSAM                                             ,285,DHUBRI
+ASSAM,DIBRUGARH,18,ASSAM                                             ,286,DIBRUGARH
+ASSAM,Dima Hasao,18,ASSAM                                             ,299,DIMA HASAO
+ASSAM,GOALPARA,18,ASSAM                                             ,287,GOALPARA
+ASSAM,GOLAGHAT,18,ASSAM                                             ,288,GOLAGHAT
+ASSAM,HAILAKANDI,18,ASSAM                                             ,289,HAILAKANDI
+ASSAM,HOJAI,18,ASSAM                                             ,709,HOJAI
+ASSAM,JORHAT,18,ASSAM                                             ,290,JORHAT
+ASSAM,KAMRUP,18,ASSAM                                             ,291,KAMRUP
+ASSAM,KAMRUP (METRO),18,ASSAM                                             ,618,KAMRUP METRO
+ASSAM,KARBI ANGLONG,18,ASSAM                                             ,292,KARBI ANGLONG
+ASSAM,KARIMGANJ,18,ASSAM                                             ,293,KARIMGANJ
+ASSAM,KOKRAJHAR,18,ASSAM                                             ,294,KOKRAJHAR
+ASSAM,LAKHIMPUR,18,ASSAM                                             ,295,LAKHIMPUR
+ASSAM,MAJULI,18,ASSAM                                             ,706,MAJULI
+ASSAM,Morigaon,18,ASSAM                                             ,296,MARIGAON
+ASSAM,NAGAON,18,ASSAM                                             ,297,NAGAON
+ASSAM,NALBARI,18,ASSAM                                             ,298,NALBARI
+ASSAM,SIVASAGAR,18,ASSAM                                             ,300,SIVASAGAR
+ASSAM,SONITPUR,18,ASSAM                                             ,301,SONITPUR
+ASSAM,SOUTH SALMARA-MANKACHAR,18,ASSAM                                             ,707,SOUTH SALMARA MANCACHAR
+ASSAM,TINSUKIA,18,ASSAM                                             ,302,TINSUKIA
+ASSAM,UDALGURI,18,ASSAM                                             ,617,UDALGURI
+BIHAR,ARARIA,10,BIHAR                                             ,188,ARARIA
+BIHAR,ARWAL,10,BIHAR                                             ,611,ARWAL
+BIHAR,AURANAGABAD,10,BIHAR                                             ,189,AURANGABAD
+BIHAR,BANKA,10,BIHAR                                             ,190,BANKA
+BIHAR,BEGUSARAI,10,BIHAR                                             ,191,BEGUSARAI
+BIHAR,BHAGALPUR,10,BIHAR                                             ,192,BHAGALPUR
+BIHAR,BHOJPUR,10,BIHAR                                             ,193,BHOJPUR
+BIHAR,BUXAR,10,BIHAR                                             ,194,BUXAR
+BIHAR,DARBHANGA,10,BIHAR                                             ,195,DARBHANGA
+BIHAR,GAYA,10,BIHAR                                             ,196,GAYA
+BIHAR,GOPALGANJ,10,BIHAR                                             ,197,GOPALGANJ
+BIHAR,JAMUI,10,BIHAR                                             ,198,JAMUI
+BIHAR,JEHANABAD,10,BIHAR                                             ,199,JEHANABAD
+BIHAR,KAIMUR (BHABUA),10,BIHAR                                             ,200,KAIMUR (BHABUA)
+BIHAR,KATIHAR,10,BIHAR                                             ,201,KATIHAR
+BIHAR,KHAGARIA,10,BIHAR                                             ,202,KHAGARIA
+BIHAR,KISHANGANJ,10,BIHAR                                             ,203,KISHANGANJ
+BIHAR,LAKHISARAI,10,BIHAR                                             ,204,LAKHISARAI
+BIHAR,MADHEPURA,10,BIHAR                                             ,205,MADHEPURA
+BIHAR,MADHUBANI,10,BIHAR                                             ,206,MADHUBANI
+BIHAR,MUNGER,10,BIHAR                                             ,207,MUNGER
+BIHAR,MUZAFFARPUR,10,BIHAR                                             ,208,MUZAFFARPUR
+BIHAR,NALANDA,10,BIHAR                                             ,209,NALANDA
+BIHAR,NAWADA,10,BIHAR                                             ,210,NAWADA
+BIHAR,PASHCHIM CHAMPARAN,10,BIHAR                                             ,211,PASHCHIM CHAMPARAN
+BIHAR,PATNA,10,BIHAR                                             ,212,PATNA
+BIHAR,PURBI CHAMPARAN,10,BIHAR                                             ,213,PURBI CHAMPARAN
+BIHAR,PURNIA,10,BIHAR                                             ,214,PURNIA
+BIHAR,ROHTAS,10,BIHAR                                             ,215,ROHTAS
+BIHAR,SAHARSA,10,BIHAR                                             ,216,SAHARSA
+BIHAR,SAMASTIPUR,10,BIHAR                                             ,217,SAMASTIPUR
+BIHAR,SARAN,10,BIHAR                                             ,218,SARAN
+BIHAR,Sheikhpura,10,BIHAR                                             ,219,SHEIKHPURA
+BIHAR,SHEOHAR,10,BIHAR                                             ,220,SHEOHAR
+BIHAR,SITAMARHI,10,BIHAR                                             ,221,SITAMARHI
+BIHAR,SIWAN,10,BIHAR                                             ,222,SIWAN
+BIHAR,SUPAUL,10,BIHAR                                             ,223,SUPAUL
+BIHAR,VAISHALI,10,BIHAR                                             ,224,VAISHALI
+CHHATTISGARH,BALOD,22,CHHATTISGARH                                      ,646,BALOD
+CHHATTISGARH,BALODA BAZAR,22,CHHATTISGARH                                      ,644,BALODA BAZAR
+CHHATTISGARH,BALRAMPUR,22,CHHATTISGARH                                      ,649,BALRAMPUR
+CHHATTISGARH,BASTAR,22,CHHATTISGARH                                      ,374,BASTAR
+CHHATTISGARH,BEMETARA,22,CHHATTISGARH                                      ,650,BEMETARA
+CHHATTISGARH,BIJAPUR,22,CHHATTISGARH                                      ,636,BIJAPUR
+CHHATTISGARH,BILASPUR,22,CHHATTISGARH                                      ,375,BILASPUR
+CHHATTISGARH,DANTEWADA,22,CHHATTISGARH                                      ,376,DANTEWADA
+CHHATTISGARH,DHAMTARI,22,CHHATTISGARH                                      ,377,DHAMTARI
+CHHATTISGARH,DURG,22,CHHATTISGARH                                      ,378,DURG
+CHHATTISGARH,GARIYABAND,22,CHHATTISGARH                                      ,645,GARIYABAND
+CHHATTISGARH,GAURELA PENDRA MARWAHI,22,CHHATTISGARH                                      ,734,Gaurella Pendra Marwahi
+CHHATTISGARH,JANJGIR-CHAMPA,22,CHHATTISGARH                                      ,379,JANJGIR-CHAMPA
+CHHATTISGARH,JASHPUR,22,CHHATTISGARH                                      ,380,JASHPUR
+CHHATTISGARH,KANKER,22,CHHATTISGARH                                      ,381,KANKER
+CHHATTISGARH,KAWARDHA,22,CHHATTISGARH                                      ,382,KABIRDHAM
+CHHATTISGARH,KONDAGAON,22,CHHATTISGARH                                      ,643,KONDAGAON
+CHHATTISGARH,KORBA,22,CHHATTISGARH                                      ,383,KORBA
+CHHATTISGARH,KOREA,22,CHHATTISGARH                                      ,384,KOREA
+CHHATTISGARH,MAHASAMUND,22,CHHATTISGARH                                      ,385,MAHASAMUND
+CHHATTISGARH,MUNGELI,22,CHHATTISGARH                                      ,647,MUNGELI
+CHHATTISGARH,NARAYANPUR,22,CHHATTISGARH                                      ,637,NARAYANPUR
+CHHATTISGARH,RAIGARH,22,CHHATTISGARH                                      ,386,RAIGARH
+CHHATTISGARH,RAIPUR,22,CHHATTISGARH                                      ,387,RAIPUR
+CHHATTISGARH,RAJNANDAGON,22,CHHATTISGARH                                      ,388,RAJNANDGAON
+CHHATTISGARH,SUKMA,22,CHHATTISGARH                                      ,642,SUKMA
+CHHATTISGARH,SURAJPUR,22,CHHATTISGARH                                      ,648,SURAJPUR
+CHHATTISGARH,SURGUJA,22,CHHATTISGARH                                      ,389,SURGUJA
+GOA,NORTH GOA,30,GOA                                               ,551,NORTH GOA
+GOA,SOUTH GOA,30,GOA                                               ,552,SOUTH GOA
+GUJARAT,AHMADABAD,24,GUJARAT                                           ,438,AHMADABAD
+GUJARAT,AMRELI,24,GUJARAT                                           ,439,AMRELI
+GUJARAT,ANAND,24,GUJARAT                                           ,440,ANAND
+GUJARAT,ARVALLI,24,GUJARAT                                           ,672,ARVALLI
+GUJARAT,BANAS KANTHA,24,GUJARAT                                           ,441,BANAS KANTHA
+GUJARAT,BHARUCH,24,GUJARAT                                           ,442,BHARUCH
+GUJARAT,BHAVNAGAR,24,GUJARAT                                           ,443,BHAVNAGAR
+GUJARAT,Botad,24,GUJARAT                                           ,676,BOTAD
+GUJARAT,Chhotaudepur,24,GUJARAT                                           ,668,CHHOTAUDEPUR
+GUJARAT,DANG,24,GUJARAT                                           ,444,DANG
+GUJARAT,DEVBHUMI DWARKA,24,GUJARAT                                           ,674,DEVBHUMI DWARKA
+GUJARAT,DOHAD,24,GUJARAT                                           ,445,DOHAD
+GUJARAT,GANDHINAGAR,24,GUJARAT                                           ,446,GANDHINAGAR
+GUJARAT,GIR SOMNATH,24,GUJARAT                                           ,675,GIR SOMNATH
+GUJARAT,JAMNAGAR,24,GUJARAT                                           ,447,JAMNAGAR
+GUJARAT,JUNAGADH,24,GUJARAT                                           ,448,JUNAGADH
+GUJARAT,KACHCHH,24,GUJARAT                                           ,449,KACHCHH
+GUJARAT,KHEDA,24,GUJARAT                                           ,450,KHEDA
+GUJARAT,MAHESANA,24,GUJARAT                                           ,451,MAHESANA
+GUJARAT,MAHISAGAR,24,GUJARAT                                           ,669,Mahisagar
+GUJARAT,Morbi,24,GUJARAT                                           ,673,MORBI
+GUJARAT,NARMADA,24,GUJARAT                                           ,452,NARMADA
+GUJARAT,NAVSARI,24,GUJARAT                                           ,453,NAVSARI
+GUJARAT,PANCH MAHALS,24,GUJARAT                                           ,454,PANCH MAHALS
+GUJARAT,PATAN,24,GUJARAT                                           ,455,PATAN
+GUJARAT,PORBANDAR,24,GUJARAT                                           ,456,PORBANDAR
+GUJARAT,RAJKOT,24,GUJARAT                                           ,457,RAJKOT
+GUJARAT,SABAR KANTHA,24,GUJARAT                                           ,458,SABAR KANTHA
+GUJARAT,SURAT,24,GUJARAT                                           ,459,SURAT
+GUJARAT,SURENDRANAGAR,24,GUJARAT                                           ,460,SURENDRANAGAR
+GUJARAT,TAPI,24,GUJARAT                                           ,641,TAPI
+GUJARAT,VADODARA,24,GUJARAT                                           ,461,VADODARA
+GUJARAT,VALSAD,24,GUJARAT                                           ,462,VALSAD
+HARYANA,AMBALA,6,HARYANA                                           ,58,AMBALA
+HARYANA,BHIWANI,6,HARYANA                                           ,59,BHIWANI
+HARYANA,CHARKI DADRI,6,HARYANA                                           ,701,CHARKI DADRI
+HARYANA,FARIDABAD,6,HARYANA                                           ,60,FARIDABAD
+HARYANA,FATEHABAD,6,HARYANA                                           ,61,FATEHABAD
+HARYANA,GURUGRAM,6,HARYANA                                           ,62,GURUGRAM
+HARYANA,HISAR,6,HARYANA                                           ,63,HISAR
+HARYANA,JHAJJAR,6,HARYANA                                           ,64,JHAJJAR
+HARYANA,JIND,6,HARYANA                                           ,65,JIND
+HARYANA,KAITHAL,6,HARYANA                                           ,66,KAITHAL
+HARYANA,KARNAL,6,HARYANA                                           ,67,KARNAL
+HARYANA,KURUKSHETRA,6,HARYANA                                           ,68,KURUKSHETRA
+HARYANA,MAHENDRAGARH,6,HARYANA                                           ,69,MAHENDRAGARH
+HARYANA,MEWAT,6,HARYANA                                           ,604,NUH
+HARYANA,PALWAL,6,HARYANA                                           ,619,PALWAL
+HARYANA,PANCHKULA,6,HARYANA                                           ,70,PANCHKULA
+HARYANA,PANIPAT,6,HARYANA                                           ,71,PANIPAT
+HARYANA,REWARI,6,HARYANA                                           ,72,REWARI
+HARYANA,ROHTAK,6,HARYANA                                           ,73,ROHTAK
+HARYANA,SIRSA,6,HARYANA                                           ,74,SIRSA
+HARYANA,SONIPAT,6,HARYANA                                           ,75,SONIPAT
+HARYANA,YAMUNANAGAR,6,HARYANA                                           ,76,YAMUNANAGAR
+HIMACHAL PRADESH,BILASPUR,2,HIMACHAL PRADESH                                  ,15,BILASPUR
+HIMACHAL PRADESH,CHAMBA,2,HIMACHAL PRADESH                                  ,16,CHAMBA
+HIMACHAL PRADESH,HAMIRPUR,2,HIMACHAL PRADESH                                  ,17,HAMIRPUR
+HIMACHAL PRADESH,KANGRA,2,HIMACHAL PRADESH                                  ,18,KANGRA
+HIMACHAL PRADESH,KINNAUR,2,HIMACHAL PRADESH                                  ,19,KINNAUR
+HIMACHAL PRADESH,KULLU,2,HIMACHAL PRADESH                                  ,20,KULLU
+HIMACHAL PRADESH,LAHUL AND SPITI,2,HIMACHAL PRADESH                                  ,21,LAHUL AND SPITI
+HIMACHAL PRADESH,MANDI,2,HIMACHAL PRADESH                                  ,22,MANDI
+HIMACHAL PRADESH,SHIMLA,2,HIMACHAL PRADESH                                  ,23,SHIMLA
+HIMACHAL PRADESH,SIRMAUR,2,HIMACHAL PRADESH                                  ,24,SIRMAUR
+HIMACHAL PRADESH,SOLAN,2,HIMACHAL PRADESH                                  ,25,SOLAN
+HIMACHAL PRADESH,UNA,2,HIMACHAL PRADESH                                  ,26,UNA
+JAMMU AND KASHMIR,ANANTNAG,1,JAMMU AND KASHMIR,1,ANANTNAG
+JAMMU AND KASHMIR,BADGAM,1,JAMMU AND KASHMIR,2,Budgam
+JAMMU AND KASHMIR,BANDIPORA,1,JAMMU AND KASHMIR,623,BANDIPORA
+JAMMU AND KASHMIR,BARAMULLA,1,JAMMU AND KASHMIR,3,BARAMULLA
+JAMMU AND KASHMIR,DODA,1,JAMMU AND KASHMIR,4,DODA
+JAMMU AND KASHMIR,GANDERBAL,1,JAMMU AND KASHMIR,626,GANDERBAL
+JAMMU AND KASHMIR,JAMMU,1,JAMMU AND KASHMIR,5,JAMMU
+JAMMU AND KASHMIR,KARGIL,37,LADAKH,6,KARGIL
+JAMMU AND KASHMIR,KATHUA,1,JAMMU AND KASHMIR,7,KATHUA
+JAMMU AND KASHMIR,KISHTWAR,1,JAMMU AND KASHMIR,620,KISHTWAR
+JAMMU AND KASHMIR,KULGAM,1,JAMMU AND KASHMIR,622,KULGAM
+JAMMU AND KASHMIR,KUPWARA,1,JAMMU AND KASHMIR,8,KUPWARA
+JAMMU AND KASHMIR,LEH (LADAKH),37,LADAKH,9,LEH LADAKH
+JAMMU AND KASHMIR,POONCH,1,JAMMU AND KASHMIR,10,POONCH
+JAMMU AND KASHMIR,PULWAMA,1,JAMMU AND KASHMIR,11,PULWAMA
+JAMMU AND KASHMIR,RAJAURI,1,JAMMU AND KASHMIR,12,RAJOURI
+JAMMU AND KASHMIR,RAMBAN,1,JAMMU AND KASHMIR,621,RAMBAN
+JAMMU AND KASHMIR,REASI,1,JAMMU AND KASHMIR,627,REASI
+JAMMU AND KASHMIR,SAMBA,1,JAMMU AND KASHMIR,624,SAMBA
+JAMMU AND KASHMIR,SHOPIAN,1,JAMMU AND KASHMIR,625,SHOPIAN
+JAMMU AND KASHMIR,SRINAGAR,1,JAMMU AND KASHMIR,13,SRINAGAR
+JAMMU AND KASHMIR,UDHAMPUR,1,JAMMU AND KASHMIR,14,UDHAMPUR
+JHARKHAND,BOKARO,20,JHARKHAND                                         ,322,BOKARO
+JHARKHAND,CHATRA,20,JHARKHAND                                         ,323,CHATRA
+JHARKHAND,DEOGHAR,20,JHARKHAND                                         ,324,DEOGHAR
+JHARKHAND,DHANBAD,20,JHARKHAND                                         ,325,DHANBAD
+JHARKHAND,DUMKA,20,JHARKHAND                                         ,326,DUMKA
+JHARKHAND,EAST SINGHBUM,20,JHARKHAND                                         ,327,EAST SINGHBUM
+JHARKHAND,GARHWA,20,JHARKHAND                                         ,328,GARHWA
+JHARKHAND,GIRIDIH,20,JHARKHAND                                         ,329,GIRIDIH
+JHARKHAND,GODDA,20,JHARKHAND                                         ,330,GODDA
+JHARKHAND,GUMLA,20,JHARKHAND                                         ,331,GUMLA
+JHARKHAND,HAZARIBAGH,20,JHARKHAND                                         ,332,HAZARIBAGH
+JHARKHAND,JAMTARA,20,JHARKHAND                                         ,333,JAMTARA
+JHARKHAND,KHUNTI,20,JHARKHAND                                         ,606,KHUNTI
+JHARKHAND,KODERMA,20,JHARKHAND                                         ,334,KODERMA
+JHARKHAND,LATEHAR,20,JHARKHAND                                         ,335,LATEHAR
+JHARKHAND,LOHARDAGA,20,JHARKHAND                                         ,336,LOHARDAGA
+JHARKHAND,PAKUR,20,JHARKHAND                                         ,337,PAKUR
+JHARKHAND,PALAMU,20,JHARKHAND                                         ,338,PALAMU
+JHARKHAND,RAMGARH,20,JHARKHAND                                         ,607,RAMGARH
+JHARKHAND,RANCHI,20,JHARKHAND                                         ,339,RANCHI
+JHARKHAND,SAHEBGANJ,20,JHARKHAND                                         ,340,SAHEBGANJ
+JHARKHAND,SARAIKELA KHARSAWAN,20,JHARKHAND                                         ,341,SARAIKELA KHARSAWAN
+JHARKHAND,SIMDEGA,20,JHARKHAND                                         ,342,SIMDEGA
+JHARKHAND,WEST SINGHBHUM,20,JHARKHAND                                         ,343,WEST SINGHBHUM
+KARNATAKA,BAGALKOTE,29,KARNATAKA                                         ,524,BAGALKOTE
+KARNATAKA,BALLARI,29,KARNATAKA                                         ,528,BALLARI
+KARNATAKA,BELAGAVI,29,KARNATAKA                                         ,527,BELAGAVI
+KARNATAKA,BENGALURU,29,KARNATAKA                                         ,525,BENGALURU URBAN
+KARNATAKA,BENGALURU RURAL,29,KARNATAKA                                         ,526,BENGALURU RURAL
+KARNATAKA,BIDAR,29,KARNATAKA                                         ,529,BIDAR
+KARNATAKA,CHAMARAJA NAGARA,29,KARNATAKA                                         ,531,CHAMARAJANAGARA
+KARNATAKA,CHIKKABALLAPURA,29,KARNATAKA                                         ,630,CHIKKABALLAPURA
+KARNATAKA,CHIKKAMAGALURU,29,KARNATAKA                                         ,532,CHIKKAMAGALURU
+KARNATAKA,CHITRADURGA,29,KARNATAKA                                         ,533,CHITRADURGA
+KARNATAKA,DAKSHINA KANNADA,29,KARNATAKA                                         ,534,DAKSHINA KANNADA
+KARNATAKA,DAVANAGERE,29,KARNATAKA                                         ,535,DAVANGERE
+KARNATAKA,DHARWAR,29,KARNATAKA                                         ,536,DHARWAD
+KARNATAKA,GADAG,29,KARNATAKA                                         ,537,GADAG
+KARNATAKA,HASSAN,29,KARNATAKA                                         ,539,HASSAN
+KARNATAKA,HAVERI,29,KARNATAKA                                         ,540,HAVERI
+KARNATAKA,KALABURAGI,29,KARNATAKA                                         ,538,KALABURAGI
+KARNATAKA,KODAGU,29,KARNATAKA                                         ,541,KODAGU
+KARNATAKA,KOLAR,29,KARNATAKA                                         ,542,KOLAR
+KARNATAKA,KOPPAL,29,KARNATAKA                                         ,543,KOPPAL
+KARNATAKA,MANDYA,29,KARNATAKA                                         ,544,MANDYA
+KARNATAKA,MYSURU,29,KARNATAKA                                         ,545,MYSURU
+KARNATAKA,RAICHUR,29,KARNATAKA                                         ,546,RAICHUR
+KARNATAKA,RAMANAGARA,29,KARNATAKA                                         ,631,RAMANAGARA
+KARNATAKA,SHIVAMOGGA,29,KARNATAKA                                         ,547,SHIVAMOGGA
+KARNATAKA,TUMAKURU,29,KARNATAKA                                         ,548,TUMAKURU
+KARNATAKA,UDUPI,29,KARNATAKA                                         ,549,UDUPI
+KARNATAKA,UTTARA KANNADA,29,KARNATAKA                                         ,550,UTTARA KANNADA
+KARNATAKA,VIJAYPURA,29,KARNATAKA                                         ,530,VIJAYAPURA
+KARNATAKA,Yadgir,29,KARNATAKA                                         ,635,YADGIR
+KERALA,ALAPPUZHA,32,KERALA                                            ,554,ALAPPUZHA
+KERALA,ERNAKULAM,32,KERALA                                            ,555,ERNAKULAM
+KERALA,IDUKKI,32,KERALA                                            ,556,IDUKKI
+KERALA,KANNUR,32,KERALA                                            ,557,KANNUR
+KERALA,KASARGOD,32,KERALA                                            ,558,KASARAGOD
+KERALA,KOLLAM,32,KERALA                                            ,559,KOLLAM
+KERALA,KOTTAYAM,32,KERALA                                            ,560,KOTTAYAM
+KERALA,KOZHIKODE,32,KERALA                                            ,561,KOZHIKODE
+KERALA,MALAPPURAM,32,KERALA                                            ,562,MALAPPURAM
+KERALA,PALAKKAD,32,KERALA                                            ,563,PALAKKAD
+KERALA,PATHANAMTHITTA,32,KERALA                                            ,564,PATHANAMTHITTA
+KERALA,THIRUVANANTHAPURAM,32,KERALA                                            ,565,THIRUVANANTHAPURAM
+KERALA,THRISSUR,32,KERALA                                            ,566,THRISSUR
+KERALA,WAYANAD,32,KERALA                                            ,567,WAYANAD
+LADAKH,KARGIL,37,LADAKH,6,KARGIL
+LADAKH,LEH (LADAKH),37,LADAKH,9,LEH LADAKH
+MADHYA PRADESH,AGAR-MALWA,23,MADHYA PRADESH                                    ,667,AGAR MALWA
+MADHYA PRADESH,ALIRAJPUR,23,MADHYA PRADESH                                    ,639,ALIRAJPUR
+MADHYA PRADESH,ANUPPUR,23,MADHYA PRADESH                                    ,390,ANUPPUR
+MADHYA PRADESH,ASHOK NAGAR,23,MADHYA PRADESH                                    ,391,ASHOKNAGAR
+MADHYA PRADESH,BALAGHAT,23,MADHYA PRADESH                                    ,392,BALAGHAT
+MADHYA PRADESH,BARWANI,23,MADHYA PRADESH                                    ,393,BARWANI
+MADHYA PRADESH,BETUL,23,MADHYA PRADESH                                    ,394,BETUL
+MADHYA PRADESH,BHIND,23,MADHYA PRADESH                                    ,395,BHIND
+MADHYA PRADESH,BHOPAL,23,MADHYA PRADESH                                    ,396,BHOPAL
+MADHYA PRADESH,BURHANPUR,23,MADHYA PRADESH                                    ,397,BURHANPUR
+MADHYA PRADESH,CHHATARPUR,23,MADHYA PRADESH                                    ,398,CHHATARPUR
+MADHYA PRADESH,CHHINDWARA,23,MADHYA PRADESH                                    ,399,CHHINDWARA
+MADHYA PRADESH,DAMOH,23,MADHYA PRADESH                                    ,400,DAMOH
+MADHYA PRADESH,DATIA,23,MADHYA PRADESH                                    ,401,DATIA
+MADHYA PRADESH,DEWAS,23,MADHYA PRADESH                                    ,402,DEWAS
+MADHYA PRADESH,DHAR,23,MADHYA PRADESH                                    ,403,DHAR
+MADHYA PRADESH,DINDORI,23,MADHYA PRADESH                                    ,404,DINDORI
+MADHYA PRADESH,GUNA,23,MADHYA PRADESH                                    ,406,GUNA
+MADHYA PRADESH,GWALIOR,23,MADHYA PRADESH                                    ,407,GWALIOR
+MADHYA PRADESH,HARDA,23,MADHYA PRADESH                                    ,408,HARDA
+MADHYA PRADESH,HOSHANGABAD,23,MADHYA PRADESH                                    ,409,HOSHANGABAD
+MADHYA PRADESH,INDORE,23,MADHYA PRADESH                                    ,410,INDORE
+MADHYA PRADESH,JABALPUR,23,MADHYA PRADESH                                    ,411,JABALPUR
+MADHYA PRADESH,JHABUA,23,MADHYA PRADESH                                    ,412,JHABUA
+MADHYA PRADESH,KATNI,23,MADHYA PRADESH                                    ,413,KATNI
+MADHYA PRADESH,KHANDWA,23,MADHYA PRADESH                                    ,405,EAST NIMAR
+MADHYA PRADESH,KHARGONE,23,MADHYA PRADESH                                    ,414,KHARGONE
+MADHYA PRADESH,MANDLA,23,MADHYA PRADESH                                    ,415,MANDLA
+MADHYA PRADESH,MANDSAUR,23,MADHYA PRADESH                                    ,416,MANDSAUR
+MADHYA PRADESH,MORENA,23,MADHYA PRADESH                                    ,417,MORENA
+MADHYA PRADESH,NARSINGHPUR,23,MADHYA PRADESH                                    ,418,NARSINGHPUR
+MADHYA PRADESH,NEEMUCH,23,MADHYA PRADESH                                    ,419,NEEMUCH
+MADHYA PRADESH,PANNA,23,MADHYA PRADESH                                    ,420,PANNA
+MADHYA PRADESH,RAISEN,23,MADHYA PRADESH                                    ,421,RAISEN
+MADHYA PRADESH,RAJGARH,23,MADHYA PRADESH                                    ,422,RAJGARH
+MADHYA PRADESH,RATLAM,23,MADHYA PRADESH                                    ,423,RATLAM
+MADHYA PRADESH,REWA,23,MADHYA PRADESH                                    ,424,REWA
+MADHYA PRADESH,SAGAR,23,MADHYA PRADESH                                    ,425,SAGAR
+MADHYA PRADESH,SATNA,23,MADHYA PRADESH                                    ,426,SATNA
+MADHYA PRADESH,SEHORE,23,MADHYA PRADESH                                    ,427,SEHORE
+MADHYA PRADESH,SEONI,23,MADHYA PRADESH                                    ,428,SEONI
+MADHYA PRADESH,SHAHDOL,23,MADHYA PRADESH                                    ,429,SHAHDOL
+MADHYA PRADESH,SHAJAPUR,23,MADHYA PRADESH                                    ,430,SHAJAPUR
+MADHYA PRADESH,SHEOPUR,23,MADHYA PRADESH                                    ,431,SHEOPUR
+MADHYA PRADESH,SHIVPURI,23,MADHYA PRADESH                                    ,432,SHIVPURI
+MADHYA PRADESH,SIDHI,23,MADHYA PRADESH                                    ,433,SIDHI
+MADHYA PRADESH,SINGRAULI,23,MADHYA PRADESH                                    ,638,SINGRAULI
+MADHYA PRADESH,TIKAMGARH,23,MADHYA PRADESH                                    ,434,TIKAMGARH
+MADHYA PRADESH,UJJAIN,23,MADHYA PRADESH                                    ,435,UJJAIN
+MADHYA PRADESH,UMARIA,23,MADHYA PRADESH                                    ,436,UMARIA
+MADHYA PRADESH,VIDISHA,23,MADHYA PRADESH                                    ,437,VIDISHA
+MAHARASHTRA,AHMEDNAGAR,27,MAHARASHTRA                                       ,466,AHMEDNAGAR
+MAHARASHTRA,AKOLA,27,MAHARASHTRA                                       ,467,AKOLA
+MAHARASHTRA,AMRAVATI,27,MAHARASHTRA                                       ,468,AMRAVATI
+MAHARASHTRA,AURANGABAD,27,MAHARASHTRA                                       ,469,AURANGABAD
+MAHARASHTRA,BEED,27,MAHARASHTRA                                       ,470,BEED
+MAHARASHTRA,BHANDARA,27,MAHARASHTRA                                       ,471,BHANDARA
+MAHARASHTRA,BULDHANA,27,MAHARASHTRA                                       ,472,BULDHANA
+MAHARASHTRA,CHANDRAPUR,27,MAHARASHTRA                                       ,473,CHANDRAPUR
+MAHARASHTRA,DHULE,27,MAHARASHTRA                                       ,474,DHULE
+MAHARASHTRA,GADCHIROLI,27,MAHARASHTRA                                       ,475,GADCHIROLI
+MAHARASHTRA,GONDIA,27,MAHARASHTRA                                       ,476,GONDIA
+MAHARASHTRA,HINGOLI,27,MAHARASHTRA                                       ,477,HINGOLI
+MAHARASHTRA,JALGAON,27,MAHARASHTRA                                       ,478,JALGAON
+MAHARASHTRA,JALNA,27,MAHARASHTRA                                       ,479,JALNA
+MAHARASHTRA,KOLHAPUR,27,MAHARASHTRA                                       ,480,KOLHAPUR
+MAHARASHTRA,LATUR,27,MAHARASHTRA                                       ,481,LATUR
+MAHARASHTRA,NAGPUR,27,MAHARASHTRA                                       ,484,NAGPUR
+MAHARASHTRA,NANDED,27,MAHARASHTRA                                       ,485,NANDED
+MAHARASHTRA,NANDURBAR,27,MAHARASHTRA                                       ,486,NANDURBAR
+MAHARASHTRA,NASHIK,27,MAHARASHTRA                                       ,487,NASHIK
+MAHARASHTRA,OSMANABAD,27,MAHARASHTRA                                       ,488,OSMANABAD
+MAHARASHTRA,PALGHAR,27,MAHARASHTRA                                       ,665,PALGHAR
+MAHARASHTRA,PARBHANI,27,MAHARASHTRA                                       ,489,PARBHANI
+MAHARASHTRA,PUNE,27,MAHARASHTRA                                       ,490,PUNE
+MAHARASHTRA,RAIGAD,27,MAHARASHTRA                                       ,491,RAIGAD
+MAHARASHTRA,RATNAGIRI,27,MAHARASHTRA                                       ,492,RATNAGIRI
+MAHARASHTRA,SANGLI,27,MAHARASHTRA                                       ,493,SANGLI
+MAHARASHTRA,SATARA,27,MAHARASHTRA                                       ,494,SATARA
+MAHARASHTRA,SINDHUDURG,27,MAHARASHTRA                                       ,495,SINDHUDURG
+MAHARASHTRA,SOLAPUR,27,MAHARASHTRA                                       ,496,SOLAPUR
+MAHARASHTRA,THANE,27,MAHARASHTRA                                       ,497,THANE
+MAHARASHTRA,WARDHA,27,MAHARASHTRA                                       ,498,WARDHA
+MAHARASHTRA,WASHIM,27,MAHARASHTRA                                       ,499,WASHIM
+MAHARASHTRA,YAVATMAL,27,MAHARASHTRA                                       ,500,YAVATMAL
+MANIPUR,BISHNUPUR,14,MANIPUR                                           ,252,BISHNUPUR
+MANIPUR,CHANDEL,14,MANIPUR                                           ,253,CHANDEL
+MANIPUR,CHURACHANDPUR,14,MANIPUR                                           ,254,CHURACHANDPUR
+MANIPUR,IMPHAL EAST,14,MANIPUR                                           ,255,IMPHAL EAST
+MANIPUR,IMPHAL WEST,14,MANIPUR                                           ,256,IMPHAL WEST
+MANIPUR,JIRIBAM,14,MANIPUR                                           ,713,JIRIBAM
+MANIPUR,KAKCHING,14,MANIPUR                                           ,711,KAKCHING
+MANIPUR,KAMJONG,14,MANIPUR                                           ,717,KAMJONG
+MANIPUR,KANGPOKPI,14,MANIPUR                                           ,712,KANGPOKPI
+MANIPUR,NONEY,14,MANIPUR                                           ,714,NONEY
+MANIPUR,PHERZAWL,14,MANIPUR                                           ,715,PHERZAWL
+MANIPUR,SENAPATI,14,MANIPUR                                           ,257,SENAPATI
+MANIPUR,TAMENGLONG,14,MANIPUR                                           ,258,TAMENGLONG
+MANIPUR,TENGNOUPAL,14,MANIPUR                                           ,716,TENGNOUPAL
+MANIPUR,THOUBAL,14,MANIPUR                                           ,259,THOUBAL
+MANIPUR,UKHRUL,14,MANIPUR                                           ,260,UKHRUL
+MEGHALAYA,EAST GARO HILLS,17,MEGHALAYA                                         ,273,EAST GARO HILLS
+MEGHALAYA,East Jaintia Hills,17,MEGHALAYA                                         ,657,EAST JAINTIA HILLS
+MEGHALAYA,EAST KHASI HILLS,17,MEGHALAYA                                         ,274,EAST KHASI HILLS
+MEGHALAYA,NORTH GARO HILLS,17,MEGHALAYA                                         ,656,NORTH GARO HILLS
+MEGHALAYA,RI BHOI,17,MEGHALAYA                                         ,276,RI BHOI
+MEGHALAYA,SOUTH GARO HILLS,17,MEGHALAYA                                         ,277,SOUTH GARO HILLS
+MEGHALAYA,SOUTH WEST GARO HILLS,17,MEGHALAYA                                         ,663,SOUTH WEST GARO HILLS
+MEGHALAYA,SOUTH WEST KHASI HILLS,17,MEGHALAYA                                         ,658,SOUTH WEST KHASI HILLS
+MEGHALAYA,WEST GARO HILLS,17,MEGHALAYA                                         ,278,WEST GARO HILLS
+MEGHALAYA,WEST JAINTIA HILLS,17,MEGHALAYA                                         ,275,WEST JAINTIA HILLS
+MEGHALAYA,WEST KHASI HILLS,17,MEGHALAYA                                         ,279,WEST KHASI HILLS
+MIZORAM,AIZAWL,15,MIZORAM                                           ,261,AIZAWL
+MIZORAM,CHAMPHAI,15,MIZORAM                                           ,262,CHAMPHAI
+MIZORAM,HNAHTHIAL,15,MIZORAM                                           ,726,Hnahthial
+MIZORAM,KHAWZAWL,15,MIZORAM                                           ,728,KHAWZAWL
+MIZORAM,KOLASIB,15,MIZORAM                                           ,263,KOLASIB
+MIZORAM,LAWNGTLAI,15,MIZORAM                                           ,264,LAWNGTLAI
+MIZORAM,LUNGLEI,15,MIZORAM                                           ,265,LUNGLEI
+MIZORAM,MAMIT,15,MIZORAM                                           ,266,MAMIT
+MIZORAM,SAIHA,15,MIZORAM                                           ,267,SAIHA
+MIZORAM,SAITUAL,15,MIZORAM                                           ,727,SAITUAL
+MIZORAM,SERCHHIP,15,MIZORAM                                           ,268,SERCHHIP
+NAGALAND,DIMAPUR,13,NAGALAND                                          ,244,DIMAPUR
+NAGALAND,KIPHIRE,13,NAGALAND                                          ,614,KIPHIRE
+NAGALAND,KOHIMA,13,NAGALAND                                          ,245,KOHIMA
+NAGALAND,LONGLENG,13,NAGALAND                                          ,615,LONGLENG
+NAGALAND,MOKOKCHUNG,13,NAGALAND                                          ,246,MOKOKCHUNG
+NAGALAND,MON,13,NAGALAND                                          ,247,MON
+NAGALAND,PEREN,13,NAGALAND                                          ,613,PEREN
+NAGALAND,PHEK,13,NAGALAND                                          ,248,PHEK
+NAGALAND,TUENSANG,13,NAGALAND                                          ,249,TUENSANG
+NAGALAND,WOKHA,13,NAGALAND                                          ,250,WOKHA
+NAGALAND,ZUNHEBOTO,13,NAGALAND                                          ,251,ZUNHEBOTO
+ODISHA,ANGUL,21,ODISHA,344,ANUGUL
+ODISHA,BALESHWAR,21,ODISHA,346,BALESHWAR
+ODISHA,BARGARH,21,ODISHA,347,BARGARH
+ODISHA,BHADRAK,21,ODISHA,348,BHADRAK
+ODISHA,BOLANGIR,21,ODISHA,345,BALANGIR
+ODISHA,BOUDH,21,ODISHA,349,BOUDH
+ODISHA,CUTTACK,21,ODISHA,350,CUTTACK
+ODISHA,DEOGARH,21,ODISHA,351,DEOGARH
+ODISHA,DHENKANAL,21,ODISHA,352,DHENKANAL
+ODISHA,GAJAPATI,21,ODISHA,353,GAJAPATI
+ODISHA,GANJAM,21,ODISHA,354,GANJAM
+ODISHA,JAGATSINGHAPUR,21,ODISHA,355,JAGATSINGHAPUR
+ODISHA,JAJPUR,21,ODISHA,356,JAJAPUR
+ODISHA,JHARSUGUDA,21,ODISHA,357,JHARSUGUDA
+ODISHA,KALAHANDI,21,ODISHA,358,KALAHANDI
+ODISHA,KANDHAMAL,21,ODISHA,359,KANDHAMAL
+ODISHA,KENDRAPARA,21,ODISHA,360,KENDRAPARA
+ODISHA,KENDUJHAR,21,ODISHA,361,KENDUJHAR
+ODISHA,KHORDHA,21,ODISHA,362,KHORDHA
+ODISHA,KORAPUT,21,ODISHA,363,KORAPUT
+ODISHA,MALKANGIRI,21,ODISHA,364,MALKANGIRI
+ODISHA,MAYURBHANJ,21,ODISHA,365,MAYURBHANJ
+ODISHA,NABARANGAPUR,21,ODISHA,366,NABARANGPUR
+ODISHA,NAYAGARH,21,ODISHA,367,NAYAGARH
+ODISHA,NUAPADA,21,ODISHA,368,NUAPADA
+ODISHA,PURI,21,ODISHA,369,PURI
+ODISHA,RAYAGADA,21,ODISHA,370,RAYAGADA
+ODISHA,SAMBALPUR,21,ODISHA,371,SAMBALPUR
+ODISHA,SONEPUR,21,ODISHA,372,SONEPUR
+ODISHA,SUNDARGARH,21,ODISHA,373,SUNDARGARH
+PUNJAB,AMRITSAR,3,PUNJAB                                            ,27,AMRITSAR
+PUNJAB,BARNALA,3,PUNJAB                                            ,605,BARNALA
+PUNJAB,BHATINDA,3,PUNJAB                                            ,28,BATHINDA
+PUNJAB,FARIDKOT,3,PUNJAB                                            ,29,FARIDKOT
+PUNJAB,FATEHGARH SAHIB,3,PUNJAB                                            ,30,FATEHGARH SAHIB
+PUNJAB,Fazilka,3,PUNJAB                                            ,651,FAZILKA
+PUNJAB,FEROZEPUR,3,PUNJAB                                            ,31,FIROZEPUR
+PUNJAB,GURDASPUR,3,PUNJAB                                            ,32,GURDASPUR
+PUNJAB,HOSHIARPUR,3,PUNJAB                                            ,33,HOSHIARPUR
+PUNJAB,JALANDHAR,3,PUNJAB                                            ,34,JALANDHAR
+PUNJAB,KAPURTHALA,3,PUNJAB                                            ,35,KAPURTHALA
+PUNJAB,LUDHIANA,3,PUNJAB                                            ,36,LUDHIANA
+PUNJAB,MANSA,3,PUNJAB                                            ,37,MANSA
+PUNJAB,MOGA,3,PUNJAB                                            ,38,MOGA
+PUNJAB,MUKATSAR,3,PUNJAB                                            ,39,SRI MUKTSAR SAHIB
+PUNJAB,NAWANSHAHR,3,PUNJAB                                            ,40,Shahid Bhagat Singh Nagar
+PUNJAB,Pathankot,3,PUNJAB                                            ,662,PATHANKOT
+PUNJAB,PATIALA,3,PUNJAB                                            ,41,PATIALA
+PUNJAB,ROPAR,3,PUNJAB                                            ,42,RUPNAGAR
+PUNJAB,SANGRUR,3,PUNJAB                                            ,43,SANGRUR
+PUNJAB,SAS NAGAR MOHALI,3,PUNJAB                                            ,608,S.A.S Nagar
+PUNJAB,TARN TARAN,3,PUNJAB                                            ,609,Tarn Taran
+RAJASTHAN,AJMER,8,RAJASTHAN                                         ,86,AJMER
+RAJASTHAN,ALWAR,8,RAJASTHAN                                         ,87,ALWAR
+RAJASTHAN,BANSWARA,8,RAJASTHAN                                         ,88,BANSWARA
+RAJASTHAN,BARAN,8,RAJASTHAN                                         ,89,BARAN
+RAJASTHAN,BARMER,8,RAJASTHAN                                         ,90,BARMER
+RAJASTHAN,BHARATPUR,8,RAJASTHAN                                         ,91,BHARATPUR
+RAJASTHAN,BHILWARA,8,RAJASTHAN                                         ,92,BHILWARA
+RAJASTHAN,BIKANER,8,RAJASTHAN                                         ,93,BIKANER
+RAJASTHAN,BUNDI,8,RAJASTHAN                                         ,94,BUNDI
+RAJASTHAN,CHITTORGARH,8,RAJASTHAN                                         ,95,CHITTORGARH
+RAJASTHAN,CHURU,8,RAJASTHAN                                         ,96,CHURU
+RAJASTHAN,DAUSA,8,RAJASTHAN                                         ,97,DAUSA
+RAJASTHAN,DHOLPUR,8,RAJASTHAN                                         ,98,DHOLPUR
+RAJASTHAN,DUNGARPUR,8,RAJASTHAN                                         ,99,DUNGARPUR
+RAJASTHAN,HANUMANGARH,8,RAJASTHAN                                         ,101,HANUMANGARH
+RAJASTHAN,JAIPUR,8,RAJASTHAN                                         ,102,JAIPUR
+RAJASTHAN,JAISALMER,8,RAJASTHAN                                         ,103,JAISALMER
+RAJASTHAN,JALORE,8,RAJASTHAN                                         ,104,JALORE
+RAJASTHAN,JHALAWAR,8,RAJASTHAN                                         ,105,JHALAWAR
+RAJASTHAN,JHUNJHUNU,8,RAJASTHAN                                         ,106,JHUNJHUNU
+RAJASTHAN,JODHPUR,8,RAJASTHAN                                         ,107,JODHPUR
+RAJASTHAN,KARAULI,8,RAJASTHAN                                         ,108,KARAULI
+RAJASTHAN,KOTA,8,RAJASTHAN                                         ,109,KOTA
+RAJASTHAN,NAGAUR,8,RAJASTHAN                                         ,110,NAGAUR
+RAJASTHAN,PALI,8,RAJASTHAN                                         ,111,PALI
+RAJASTHAN,PRATAPGARH,8,RAJASTHAN                                         ,629,PRATAPGARH
+RAJASTHAN,RAJSAMAND,8,RAJASTHAN                                         ,112,RAJSAMAND
+RAJASTHAN,SAWAI MADHOPUR,8,RAJASTHAN                                         ,113,SAWAI MADHOPUR
+RAJASTHAN,SIKAR,8,RAJASTHAN                                         ,114,SIKAR
+RAJASTHAN,SIROHI,8,RAJASTHAN                                         ,115,SIROHI
+RAJASTHAN,SRI GANGANAGAR,8,RAJASTHAN                                         ,100,GANGANAGAR
+RAJASTHAN,TONK,8,RAJASTHAN                                         ,116,TONK
+RAJASTHAN,UDAIPUR,8,RAJASTHAN                                         ,117,UDAIPUR
+SIKKIM,EAST DISTRICT,11,SIKKIM                                            ,225,EAST DISTRICT
+SIKKIM,NORTH DISTRICT,11,SIKKIM                                            ,226,NORTH DISTRICT
+SIKKIM,SOUTH DISTRICT,11,SIKKIM                                            ,227,SOUTH DISTRICT
+SIKKIM,WEST DISTRICT,11,SIKKIM                                            ,228,WEST DISTRICT
+TAMIL NADU,ARIYALUR,33,TAMIL NADU                                        ,610,Ariyalur
+TAMIL NADU,CHENGALPATTU,33,TAMIL NADU                                        ,730,CHENGALPATTU
+TAMIL NADU,COIMBATORE,33,TAMIL NADU                                        ,569,COIMBATORE
+TAMIL NADU,CUDDALORE,33,TAMIL NADU                                        ,570,CUDDALORE
+TAMIL NADU,DHARMAPURI,33,TAMIL NADU                                        ,571,DHARMAPURI
+TAMIL NADU,DINDIGUL,33,TAMIL NADU                                        ,572,DINDIGUL
+TAMIL NADU,ERODE,33,TAMIL NADU                                        ,573,ERODE
+TAMIL NADU,KALLAKURICHI,33,TAMIL NADU                                        ,729,KALLAKURICHI
+TAMIL NADU,KANCHIPURAM,33,TAMIL NADU                                        ,574,KANCHIPURAM
+TAMIL NADU,KANNIYAKUMARI,33,TAMIL NADU                                        ,575,KANNIYAKUMARI
+TAMIL NADU,KARUR,33,TAMIL NADU                                        ,576,KARUR
+TAMIL NADU,KRISHNAGIRI,33,TAMIL NADU                                        ,577,KRISHNAGIRI
+TAMIL NADU,MADURAI,33,TAMIL NADU                                        ,578,MADURAI
+TAMIL NADU,MAYILADUTHURAI,33,TAMIL NADU                                        ,579,NAGAPATTINAM
+TAMIL NADU,NAGAPATTINAM,33,TAMIL NADU                                        ,579,NAGAPATTINAM
+TAMIL NADU,NAMAKKAL,33,TAMIL NADU                                        ,580,NAMAKKAL
+TAMIL NADU,PERAMBALUR,33,TAMIL NADU                                        ,581,PERAMBALUR
+TAMIL NADU,PUDUKKOTTAI,33,TAMIL NADU                                        ,582,PUDUKKOTTAI
+TAMIL NADU,RAMANATHAPURAM,33,TAMIL NADU                                        ,583,RAMANATHAPURAM
+TAMIL NADU,Ranipet,33,TAMIL NADU                                        ,731,Ranipet
+TAMIL NADU,SALEM,33,TAMIL NADU                                        ,584,SALEM
+TAMIL NADU,SIVAGANGAI,33,TAMIL NADU                                        ,585,SIVAGANGA
+TAMIL NADU,TENKASI,33,TAMIL NADU                                        ,733,TENKASI
+TAMIL NADU,THANJAVUR,33,TAMIL NADU                                        ,586,THANJAVUR
+TAMIL NADU,THE NILGIRIS,33,TAMIL NADU                                        ,587,THE NILGIRIS
+TAMIL NADU,THENI,33,TAMIL NADU                                        ,588,THENI
+TAMIL NADU,THOOTHUKKUDI,33,TAMIL NADU                                        ,594,TUTICORIN
+TAMIL NADU,TIRUCHIRAPPALLI,33,TAMIL NADU                                        ,591,TIRUCHIRAPPALLI
+TAMIL NADU,TIRUNELVELI,33,TAMIL NADU                                        ,592,TIRUNELVELI
+TAMIL NADU,TIRUPATHUR,33,TAMIL NADU                                        ,732,Tirupathur
+TAMIL NADU,TIRUPPUR,33,TAMIL NADU                                        ,634,TIRUPPUR
+TAMIL NADU,TIRUVALLUR,33,TAMIL NADU                                        ,589,THIRUVALLUR
+TAMIL NADU,TIRUVANNAMALAI,33,TAMIL NADU                                        ,593,TIRUVANNAMALAI
+TAMIL NADU,TIRUVARUR,33,TAMIL NADU                                        ,590,THIRUVARUR
+TAMIL NADU,VELLORE,33,TAMIL NADU                                        ,595,VELLORE
+TAMIL NADU,VILLUPURAM,33,TAMIL NADU                                        ,596,VILLUPURAM
+TAMIL NADU,VIRUDHUNAGAR,33,TAMIL NADU                                        ,597,VIRUDHUNAGAR
+TELANGANA,Adilabad,36,TELANGANA,501,ADILABAD
+TELANGANA,Bhadradri Kothagudem,36,TELANGANA,690,BHADRADRI KOTHAGUDEM
+TELANGANA,Jagtial,36,TELANGANA,691,Jagitial
+TELANGANA,Jangaon,36,TELANGANA,689,JANGOAN
+TELANGANA,Jayashanker Bhopalapally,36,TELANGANA,687,JAYASHANKAR BHUPALAPALLY
+TELANGANA,Jogulamba Gadwal,36,TELANGANA,695,JOGULAMBA GADWAL
+TELANGANA,Kamareddy,36,TELANGANA,685,KAMAREDDY
+TELANGANA,Karimnagar,36,TELANGANA,508,KARIMNAGAR
+TELANGANA,Khammam,36,TELANGANA,509,KHAMMAM
+TELANGANA,Kumram Bheem(Asifabad),36,TELANGANA,699,KUMURAM BHEEM ASIFABAD
+TELANGANA,Mahabubabad,36,TELANGANA,688,MAHABUBABAD
+TELANGANA,Mahabubnagar,36,TELANGANA,512,MAHABUBNAGAR
+TELANGANA,Mancherial,36,TELANGANA,684,MANCHERIAL
+TELANGANA,Medak,36,TELANGANA,513,MEDAK
+TELANGANA,Medchal,36,TELANGANA,700,MEDCHAL MALKAJGIRI
+TELANGANA,Mulugu,36,TELANGANA,720,Mulugu
+TELANGANA,Nagarkurnool,36,TELANGANA,694,NAGARKURNOOL
+TELANGANA,Nalgonda,36,TELANGANA,514,NALGONDA
+TELANGANA,Narayanpet,36,TELANGANA,721,Narayanpet
+TELANGANA,Nirmal,36,TELANGANA,680,Nirmal
+TELANGANA,Nizamabad,36,TELANGANA,516,NIZAMABAD
+TELANGANA,Peddapalli,36,TELANGANA,682,PEDDAPALLI
+TELANGANA,Rajanna Sirsilla,36,TELANGANA,683,RAJANNA SIRCILLA
+TELANGANA,Rangareddy,36,TELANGANA,518,RANGA REDDY
+TELANGANA,Sangareddy,36,TELANGANA,691,SANGAREDDY
+TELANGANA,Siddipet,36,TELANGANA,692,SIDDIPET
+TELANGANA,Suryapet,36,TELANGANA,696,SURYAPET
+TELANGANA,Vikarabad,36,TELANGANA,698,VIKARABAD
+TELANGANA,Wanaparthy,36,TELANGANA,693,WANAPARTHY
+TELANGANA,Warangal (Urban),36,TELANGANA,686,WARANGAL URBAN
+TELANGANA,Warangal Rural,36,TELANGANA,522,WARANGAL RURAL
+TELANGANA,Yadadri Bhuvanagiri,36,TELANGANA,697,YADADRI BHUVANAGIRI
+TRIPURA,DHALAI,16,TRIPURA                                           ,269,Dhalai
+TRIPURA,Gomati,16,TRIPURA                                           ,654,Gomati
+TRIPURA,Khowai,16,TRIPURA                                           ,652,Khowai
+TRIPURA,NORTH TRIPURA,16,TRIPURA                                           ,270,North Tripura
+TRIPURA,Sepahijala,16,TRIPURA                                           ,653,Sepahijala
+TRIPURA,SOUTH TRIPURA,16,TRIPURA                                           ,271,South Tripura
+TRIPURA,Unakoti,16,TRIPURA                                           ,655,Unakoti
+TRIPURA,WEST TRIPURA,16,TRIPURA                                           ,272,West Tripura
+UTTAR PRADESH,AGRA,9,UTTAR PRADESH                                     ,118,AGRA
+UTTAR PRADESH,ALIGARH,9,UTTAR PRADESH                                     ,119,ALIGARH
+UTTAR PRADESH,AMBEDKAR NAGAR,9,UTTAR PRADESH                                     ,121,AMBEDKAR NAGAR
+UTTAR PRADESH,AMETHI,9,UTTAR PRADESH                                     ,640,Amethi
+UTTAR PRADESH,AMROHA,9,UTTAR PRADESH                                     ,154,AMROHA
+UTTAR PRADESH,AURAIYA,9,UTTAR PRADESH                                     ,122,AURAIYA
+UTTAR PRADESH,AYODHYA,9,UTTAR PRADESH                                     ,140,AYODHYA
+UTTAR PRADESH,AZAMGARH,9,UTTAR PRADESH                                     ,123,AZAMGARH
+UTTAR PRADESH,BAGHPAT,9,UTTAR PRADESH                                     ,124,BAGHPAT
+UTTAR PRADESH,BAHRAICH,9,UTTAR PRADESH                                     ,125,BAHRAICH
+UTTAR PRADESH,BALLIA,9,UTTAR PRADESH                                     ,126,BALLIA
+UTTAR PRADESH,BALRAMPUR,9,UTTAR PRADESH                                     ,127,BALRAMPUR
+UTTAR PRADESH,BANDA,9,UTTAR PRADESH                                     ,128,BANDA
+UTTAR PRADESH,BARABANKI,9,UTTAR PRADESH                                     ,129,BARABANKI
+UTTAR PRADESH,BAREILLY,9,UTTAR PRADESH                                     ,130,BAREILLY
+UTTAR PRADESH,BASTI,9,UTTAR PRADESH                                     ,131,BASTI
+UTTAR PRADESH,BIJNOR,9,UTTAR PRADESH                                     ,132,BIJNOR
+UTTAR PRADESH,BUDAUN,9,UTTAR PRADESH                                     ,133,BUDAUN
+UTTAR PRADESH,BULANDSHAHR,9,UTTAR PRADESH                                     ,134,BULANDSHAHR
+UTTAR PRADESH,CHANDAULI,9,UTTAR PRADESH                                     ,135,CHANDAULI
+UTTAR PRADESH,CHITRAKOOT,9,UTTAR PRADESH                                     ,136,CHITRAKOOT
+UTTAR PRADESH,DEORIA,9,UTTAR PRADESH                                     ,137,DEORIA
+UTTAR PRADESH,ETAH,9,UTTAR PRADESH                                     ,138,ETAH
+UTTAR PRADESH,ETAWAH,9,UTTAR PRADESH                                     ,139,ETAWAH
+UTTAR PRADESH,FARRUKHABAD,9,UTTAR PRADESH                                     ,141,FARRUKHABAD
+UTTAR PRADESH,FATEHPUR,9,UTTAR PRADESH                                     ,142,FATEHPUR
+UTTAR PRADESH,FIROZABAD,9,UTTAR PRADESH                                     ,143,FIROZABAD
+UTTAR PRADESH,GAUTAM BUDDHA NAGAR,9,UTTAR PRADESH                                     ,144,GAUTAM BUDDHA NAGAR
+UTTAR PRADESH,GHAZIABAD,9,UTTAR PRADESH                                     ,145,GHAZIABAD
+UTTAR PRADESH,GHAZIPUR,9,UTTAR PRADESH                                     ,146,GHAZIPUR
+UTTAR PRADESH,GONDA,9,UTTAR PRADESH                                     ,147,GONDA
+UTTAR PRADESH,GORAKHPUR,9,UTTAR PRADESH                                     ,148,GORAKHPUR
+UTTAR PRADESH,HAMIRPUR,9,UTTAR PRADESH                                     ,149,HAMIRPUR
+UTTAR PRADESH,HAPUR,9,UTTAR PRADESH                                     ,661,HAPUR
+UTTAR PRADESH,HARDOI,9,UTTAR PRADESH                                     ,150,HARDOI
+UTTAR PRADESH,HATHRAS,9,UTTAR PRADESH                                     ,163,HATHRAS
+UTTAR PRADESH,JALAUN,9,UTTAR PRADESH                                     ,151,JALAUN
+UTTAR PRADESH,JAUNPUR,9,UTTAR PRADESH                                     ,152,JAUNPUR
+UTTAR PRADESH,JHANSI,9,UTTAR PRADESH                                     ,153,JHANSI
+UTTAR PRADESH,KANNAUJ,9,UTTAR PRADESH                                     ,155,KANNAUJ
+UTTAR PRADESH,KANPUR DEHAT,9,UTTAR PRADESH                                     ,156,KANPUR DEHAT
+UTTAR PRADESH,KANPUR NAGAR,9,UTTAR PRADESH                                     ,157,KANPUR NAGAR
+UTTAR PRADESH,KASHGANJ,9,UTTAR PRADESH                                     ,633,Kasganj
+UTTAR PRADESH,KAUSHAMBI,9,UTTAR PRADESH                                     ,158,KAUSHAMBI
+UTTAR PRADESH,KHERI,9,UTTAR PRADESH                                     ,159,KHERI
+UTTAR PRADESH,KUSHI NAGAR,9,UTTAR PRADESH                                     ,160,KUSHI NAGAR
+UTTAR PRADESH,LALITPUR,9,UTTAR PRADESH                                     ,161,LALITPUR
+UTTAR PRADESH,LUCKNOW,9,UTTAR PRADESH                                     ,162,LUCKNOW
+UTTAR PRADESH,MAHARAJGANJ,9,UTTAR PRADESH                                     ,164,MAHARAJGANJ
+UTTAR PRADESH,MAHOBA,9,UTTAR PRADESH                                     ,165,MAHOBA
+UTTAR PRADESH,MAINPURI,9,UTTAR PRADESH                                     ,166,MAINPURI
+UTTAR PRADESH,MATHURA,9,UTTAR PRADESH                                     ,167,MATHURA
+UTTAR PRADESH,MAU,9,UTTAR PRADESH                                     ,168,MAU
+UTTAR PRADESH,MEERUT,9,UTTAR PRADESH                                     ,169,MEERUT
+UTTAR PRADESH,MIRZAPUR,9,UTTAR PRADESH                                     ,170,MIRZAPUR
+UTTAR PRADESH,MORADABAD,9,UTTAR PRADESH                                     ,171,MORADABAD
+UTTAR PRADESH,MUZAFFARNAGAR,9,UTTAR PRADESH                                     ,172,MUZAFFARNAGAR
+UTTAR PRADESH,PILIBHIT,9,UTTAR PRADESH                                     ,173,PILIBHIT
+UTTAR PRADESH,PRATAPGARH,9,UTTAR PRADESH                                     ,174,PRATAPGARH
+UTTAR PRADESH,PRAYAGRAJ,9,UTTAR PRADESH                                     ,120,PRAYAGRAJ
+UTTAR PRADESH,RAE BARELI,9,UTTAR PRADESH                                     ,175,RAE BARELI
+UTTAR PRADESH,RAMPUR,9,UTTAR PRADESH                                     ,176,RAMPUR
+UTTAR PRADESH,SAHARANPUR,9,UTTAR PRADESH                                     ,177,SAHARANPUR
+UTTAR PRADESH,SAMBHAL,9,UTTAR PRADESH                                     ,659,SAMBHAL
+UTTAR PRADESH,SANT KABEER NAGAR,9,UTTAR PRADESH                                     ,178,SANT KABEER NAGAR
+UTTAR PRADESH,SANT RAVIDAS NAGAR,9,UTTAR PRADESH                                     ,179,BHADOHI
+UTTAR PRADESH,SHAHJAHANPUR,9,UTTAR PRADESH                                     ,180,SHAHJAHANPUR
+UTTAR PRADESH,SHAMLI,9,UTTAR PRADESH                                     ,660,SHAMLI
+UTTAR PRADESH,SHRAVASTI,9,UTTAR PRADESH                                     ,181,SHRAVASTI
+UTTAR PRADESH,SIDDHARTH NAGAR,9,UTTAR PRADESH                                     ,182,SIDDHARTH NAGAR
+UTTAR PRADESH,SITAPUR,9,UTTAR PRADESH                                     ,183,SITAPUR
+UTTAR PRADESH,SONBHADRA,9,UTTAR PRADESH                                     ,184,SONBHADRA
+UTTAR PRADESH,SULTANPUR,9,UTTAR PRADESH                                     ,185,SULTANPUR
+UTTAR PRADESH,UNNAO,9,UTTAR PRADESH                                     ,186,UNNAO
+UTTAR PRADESH,VARANASI,9,UTTAR PRADESH                                     ,187,VARANASI
+UTTARAKHAND,ALMORA,5,UTTARAKHAND,45,ALMORA
+UTTARAKHAND,BAGESHWAR,5,UTTARAKHAND,46,BAGESHWAR
+UTTARAKHAND,CHAMOLI,5,UTTARAKHAND,47,CHAMOLI
+UTTARAKHAND,CHAMPAWAT,5,UTTARAKHAND,48,CHAMPAWAT
+UTTARAKHAND,DEHRADUN,5,UTTARAKHAND,49,DEHRADUN
+UTTARAKHAND,HARIDWAR,5,UTTARAKHAND,50,HARIDWAR
+UTTARAKHAND,NAINITAL,5,UTTARAKHAND,51,NAINITAL
+UTTARAKHAND,PAURI GARHWAL,5,UTTARAKHAND,52,PAURI GARHWAL
+UTTARAKHAND,PITHORAGARH,5,UTTARAKHAND,53,PITHORAGARH
+UTTARAKHAND,RUDRA PRAYAG,5,UTTARAKHAND,54,RUDRA PRAYAG
+UTTARAKHAND,TEHRI GARHWAL,5,UTTARAKHAND,55,TEHRI GARHWAL
+UTTARAKHAND,UDAM SINGH NAGAR,5,UTTARAKHAND,56,UDAM SINGH NAGAR
+UTTARAKHAND,UTTAR KASHI,5,UTTARAKHAND,57,UTTAR KASHI
+WEST BENGAL,24 PARGANAS (NORTH),19,WEST BENGAL                                       ,303,24 PARAGANAS NORTH
+WEST BENGAL,24 PARGANAS SOUTH,19,WEST BENGAL                                       ,304,24 PARAGANAS SOUTH
+WEST BENGAL,ALIPURDUAR,19,WEST BENGAL                                       ,664,Alipurduar
+WEST BENGAL,BANKURA,19,WEST BENGAL                                       ,305,BANKURA
+WEST BENGAL,BIRBHUM,19,WEST BENGAL                                       ,307,BIRBHUM
+WEST BENGAL,COOCHBEHAR,19,WEST BENGAL                                       ,308,COOCHBEHAR
+WEST BENGAL,Darjeeling Gorkha Hill Council (DGHC),19,WEST BENGAL                                       ,309,DARJEELING
+WEST BENGAL,DINAJPUR DAKSHIN,19,WEST BENGAL                                       ,310,DINAJPUR DAKSHIN
+WEST BENGAL,DINAJPUR UTTAR,19,WEST BENGAL                                       ,311,DINAJPUR UTTAR
+WEST BENGAL,HOOGHLY,19,WEST BENGAL                                       ,312,HOOGHLY
+WEST BENGAL,HOWRAH,19,WEST BENGAL                                       ,313,HOWRAH
+WEST BENGAL,JALPAIGURI,19,WEST BENGAL                                       ,314,JALPAIGURI
+WEST BENGAL,JHARGRAM,19,WEST BENGAL                                       ,703,Jhargram
+WEST BENGAL,KALIMPONG,19,WEST BENGAL                                       ,702,KALIMPONG
+WEST BENGAL,MALDAH,19,WEST BENGAL                                       ,316,MALDAH
+WEST BENGAL,MURSHIDABAD,19,WEST BENGAL                                       ,319,MURSHIDABAD
+WEST BENGAL,NADIA,19,WEST BENGAL                                       ,320,NADIA
+WEST BENGAL,PASCHIM BARDHAMAN,19,WEST BENGAL                                       ,704,PASCHIM BARDHAMAN
+WEST BENGAL,PASCHIM MEDINIPUR,19,WEST BENGAL                                       ,318,MEDINIPUR WEST
+WEST BENGAL,PURBA BARDHAMAN,19,WEST BENGAL                                       ,306,PURBA BARDHAMAN
+WEST BENGAL,PURBA MEDINIPUR,19,WEST BENGAL                                       ,317,MEDINIPUR EAST
+WEST BENGAL,PURULIA,19,WEST BENGAL                                       ,321,PURULIA
+WEST BENGAL,SILIGURI MAHAKUMA PARISAD,19,WEST BENGAL                                       ,309,DARJEELING
+ANDAMAN AND NICOBAR,NICOBARS,35,ANDAMAN AND NICOBAR ISLANDS                   ,603,NICOBARS
+ANDAMAN AND NICOBAR,NORTH AND MIDDLE ANDAMAN,35,ANDAMAN AND NICOBAR ISLANDS                   ,632,NORTH AND MIDDLE ANDAMAN
+ANDAMAN AND NICOBAR,SOUTH ANDAMAN,35,ANDAMAN AND NICOBAR ISLANDS                   ,602,SOUTH ANDAMANS
+LAKSHADWEEP,LAKSHADWEEP DISTRICT,31,LAKSHADWEEP                                       ,553,LAKSHADWEEP DISTRICT
+PUDUCHERRY,KARAIKAL,34,PUDUCHERRY,598,KARAIKAL
+PUDUCHERRY,PONDICHERRY,34,PUDUCHERRY,600,PONDICHERRY
+THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,DADRA AND NAGAR HAVELI,38,THE DADRA AND NAGAR HAVELI AND DAMAN AND DIU,465,DADRA AND NAGAR HAVELI
