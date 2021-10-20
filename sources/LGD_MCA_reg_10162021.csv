@@ -1,39 +1,39 @@
-state_name,state_code
-Andaman & Nicobar,35
-Andhra Pradesh,28
-Arunachal Pradesh,12
-Assam,18
-Bihar,10
-Chandigarh,4
-Chhattisgarh,22
-Chattisgarh,22
-Dadra & Nagar Haveli,26
-Daman and Diu,25
-Delhi,7
-Goa,30
-Gujarat,24
-Haryana,6
-Himachal Pradesh,2
-Jammu & Kashmir,1
-Jharkhand,20
-Karnataka,29
-Kerala,32
-Ladakh,37
-Madhya Pradesh,23
-Maharashtra,27
-Manipur,14
-Meghalaya,17
-Mizoram,15
-Nagaland,13
-Orissa,21
-Pondicherry,34
-Punjab,3
-Rajasthan,8
-Tamil Nadu,33
-Telangana,36
-Tripura,16
-Uttar Pradesh,9
-Uttarakhand,5
-West Bengal,19
-Lakshadweep,31
-Sikkim,11
+STATE,state_name,state_code
+Andaman & Nicobar,Andaman & Nicobar,35
+Andhra Pradesh,Andhra Pradesh,28
+Arunachal Pradesh,Arunachal Pradesh,12
+Assam,Assam,18
+Bihar,Bihar,10
+Chandigarh,Chandigarh,4
+Chhattisgarh,Chhattisgarh,22
+Chattisgarh,Chhattisgarh,22
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,26
+Daman and Diu,Daman and Diu,25
+Delhi,Delhi,7
+Goa,Goa,30
+Gujarat,Gujarat,24
+Haryana,Haryana,6
+Himachal Pradesh,Himachal Pradesh,2
+Jammu & Kashmir,Jammu & Kashmir,1
+Jharkhand,Jharkhand,20
+Karnataka,Karnataka,29
+Kerala,Kerala,32
+Ladakh,Ladakh,37
+Madhya Pradesh,Madhya Pradesh,23
+Maharashtra,Maharashtra,27
+Manipur,Manipur,14
+Meghalaya,Meghalaya,17
+Mizoram,Mizoram,15
+Nagaland,Nagaland,13
+Orissa,Orissa,21
+Pondicherry,Pondicherry,34
+Punjab,Punjab,3
+Rajasthan,Rajasthan,8
+Tamil Nadu,Tamil Nadu,33
+Telangana,Telangana,36
+Tripura,Tripura,16
+Uttar Pradesh,Uttar Pradesh,9
+Uttarakhand,Uttarakhand,5
+West Bengal,West Bengal,19
+Lakshadweep,Lakshadweep,31
+Sikkim,Sikkim,11
