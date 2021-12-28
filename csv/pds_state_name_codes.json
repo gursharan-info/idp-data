@@ -1,1 +1,130 @@
-[{"name": "ANDAMAN & NICOBAR ISLANDS", "id": 35}, {"name": "ANDHRA PRADESH", "id": 28}, {"name": "ARUNACHAL PRADESH", "id": 12}, {"name": "ASSAM", "id": 18}, {"name": "BIHAR", "id": 10}, {"name": "CHHATTISGARH", "id": 22}, {"name": "DADRA & NAGAR HAVELI", "id": 26}, {"name": "DAMAN & DIU", "id": 25}, {"name": "DELHI", "id": 7}, {"name": "GOA", "id": 30}, {"name": "GUJARAT", "id": 24}, {"name": "HARYANA", "id": 6}, {"name": "HIMACHAL PRADESH", "id": 2}, {"name": "JAMMU AND KASHMIR", "id": 1}, {"name": "JHARKHAND", "id": 20}, {"name": "KARNATAKA", "id": 29}, {"name": "KERALA", "id": 32}, {"name": "LADAKH", "id": 37}, {"name": "LAKSHADWEEP", "id": 31}, {"name": "MADHYA PRADESH", "id": 23}, {"name": "MAHARASHTRA", "id": 27}, {"name": "MANIPUR", "id": 14}, {"name": "MEGHALAYA", "id": 17}, {"name": "MIZORAM", "id": 15}, {"name": "NAGALAND", "id": 13}, {"name": "ODISHA", "id": 21}, {"name": "PUNJAB", "id": 3}, {"name": "RAJASTHAN", "id": 8}, {"name": "SIKKIM", "id": 11}, {"name": "TAMIL NADU", "id": 33}, {"name": "TELANGANA", "id": 36}, {"name": "TRIPURA", "id": 16}, {"name": "UTTAR PRADESH", "id": 9}, {"name": "UTTARAKHAND", "id": 5}, {"name": "WEST BENGAL", "id": 19}]
+[
+    {
+        "name": "ANDAMAN & NICOBAR ISLANDS",
+        "id": 35
+    },
+    {
+        "name": "ANDHRA PRADESH",
+        "id": 28
+    },
+    {
+        "name": "ARUNACHAL PRADESH",
+        "id": 12
+    },
+    {
+        "name": "ASSAM",
+        "id": 18
+    },
+    {
+        "name": "BIHAR",
+        "id": 10
+    },
+    {
+        "name": "CHHATTISGARH",
+        "id": 22
+    },
+    {
+        "name": "DAMAN & DIU",
+        "id": 25
+    },
+    {
+        "name": "DELHI",
+        "id": 7
+    },
+    {
+        "name": "GOA",
+        "id": 30
+    },
+    {
+        "name": "GUJARAT",
+        "id": 24
+    },
+    {
+        "name": "HARYANA",
+        "id": 6
+    },
+    {
+        "name": "HIMACHAL PRADESH",
+        "id": 2
+    },
+    {
+        "name": "JAMMU AND KASHMIR",
+        "id": 1
+    },
+    {
+        "name": "JHARKHAND",
+        "id": 20
+    },
+    {
+        "name": "KARNATAKA",
+        "id": 29
+    },
+    {
+        "name": "KERALA",
+        "id": 32
+    },
+    {
+        "name": "LADAKH",
+        "id": 37
+    },
+    {
+        "name": "MADHYA PRADESH",
+        "id": 23
+    },
+    {
+        "name": "MAHARASHTRA",
+        "id": 27
+    },
+    {
+        "name": "MANIPUR",
+        "id": 14
+    },
+    {
+        "name": "MEGHALAYA",
+        "id": 17
+    },
+    {
+        "name": "MIZORAM",
+        "id": 15
+    },
+    {
+        "name": "NAGALAND",
+        "id": 13
+    },
+    {
+        "name": "ODISHA",
+        "id": 21
+    },
+    {
+        "name": "RAJASTHAN",
+        "id": 8
+    },
+    {
+        "name": "SIKKIM",
+        "id": 11
+    },
+    {
+        "name": "TAMIL NADU",
+        "id": 33
+    },
+    {
+        "name": "TELANGANA",
+        "id": 36
+    },
+    {
+        "name": "TRIPURA",
+        "id": 16
+    },
+    {
+        "name": "UTTAR PRADESH",
+        "id": 9
+    },
+    {
+        "name": "UTTARAKHAND",
+        "id": 5
+    },
+    {
+        "name": "WEST BENGAL",
+        "id": 19
+    }
+]
