@@ -1,6 +1,9 @@
 ﻿state_name,state_code,district_name,district_code
-Lakshadweep,31,Lakshadweep District,553
-Lakshadweep,31,Lakshadweep,553
+Andaman and Nicobar Islands,35,Nicobars,603
+Andaman and Nicobar Islands,35,South Andamans,602
+Andaman and Nicobar Islands,35,South Andaman,602
+Andaman and Nicobar Islands,35,North & Middle Andaman,632
+Andaman and Nicobar Islands,35,North and Middle Andaman,632
 Andhra Pradesh,28,Srikakulam,519
 Andhra Pradesh,28,Vizianagaram,521
 Andhra Pradesh,28,Visakhapatnam,520
@@ -17,11 +20,6 @@ Andhra Pradesh,28,Y.S.R.,504
 Andhra Pradesh,28,Y.S.R. Kadapa,504
 Andhra Pradesh,28,YSR Kadapa,504
 Andhra Pradesh,28,Chittoor,503
-Andaman and Nicobar Islands,35,Nicobars,603
-Andaman and Nicobar Islands,35,South Andamans,602
-Andaman and Nicobar Islands,35,South Andaman,602
-Andaman and Nicobar Islands,35,North & Middle Andaman,632
-Andaman and Nicobar Islands,35,North and Middle Andaman,632
 Arunachal Pradesh,12,Anjaw,628
 Arunachal Pradesh,12,Changlang,229
 Arunachal Pradesh,12,Capital Complex,229
@@ -147,7 +145,6 @@ Chhattisgarh,22,Koriya,384
 Chhattisgarh,22,Mahasamund,385
 Chhattisgarh,22,Narayanpur,637
 Chhattisgarh,22,Raigarh,386
-Madhya Pradesh,22,Raigarh,386
 Chhattisgarh,22,Raipur,387
 Chhattisgarh,22,Rajnandgaon,388
 Chhattisgarh,22,Surguja,389
@@ -165,12 +162,12 @@ Chhattisgarh,22,Kondagaon,643
 Chhattisgarh,22,Mungeli,647
 Chhattisgarh,22,Surajpur,648
 Chhattisgarh,22,Sukma,642
-Dadra and Nagar Haveli,26,Dadra and Nagar Haveli,465
+Dadra and Nagar Haveli,38,Dadra and Nagar Haveli,465
 Dadra and Nagar Haveli and Daman and Diu,38,Dadra and Nagar Haveli,465
-Daman and Diu,25,Daman,463
 Dadra and Nagar Haveli and Daman and Diu,38,Daman,463
-Daman and Diu,25,Diu,464
 Dadra and Nagar Haveli and Daman and Diu,38,Diu,464
+Daman and Diu,25,Daman,463
+Daman and Diu,25,Diu,464
 Delhi,7,Central,77
 Delhi,7,Central Delhi,77
 Delhi,7,East,78
@@ -375,6 +372,9 @@ Kerala,32,Wayanad,567
 Ladakh,37,Kargil,6
 Ladakh,37,Leh Ladakh,9
 Ladakh,37,Leh,9
+Lakshadweep,31,Lakshadweep District,553
+Lakshadweep,31,Lakshadweep,553
+Madhya Pradesh,23,Raigarh,386
 Madhya Pradesh,23,Alirajpur,639
 Madhya Pradesh,23,Anuppur,390
 Madhya Pradesh,23,Ashoknagar,391
@@ -798,32 +798,32 @@ Uttar Pradesh,9,Kheri,159
 Uttar Pradesh,9,Lakhimpur Kheri,159
 Uttar Pradesh,9,Shravasti,181
 Uttar Pradesh,9,Shrawasti,181
-Uttrakhand,5,Almora,45
 Uttarakhand,5,Almora,45
-Uttrakhand,5,Bageshwar,46
 Uttarakhand,5,Bageshwar,46
-Uttrakhand,5,Chamoli,47
 Uttarakhand,5,Chamoli,47
-Uttrakhand,5,Champawat,48
 Uttarakhand,5,Champawat,48
-Uttrakhand,5,Dehradun,49
 Uttarakhand,5,Dehradun,49
-Uttrakhand,5,Pauri Garhwal,52
 Uttarakhand,5,Pauri Garhwal,52
-Uttrakhand,5,Haridwar,50
 Uttarakhand,5,Haridwar,50
-Uttrakhand,5,Nainital,51
 Uttarakhand,5,Nainital,51
-Uttrakhand,5,Pithoragarh,53
 Uttarakhand,5,Pithoragarh,53
-Uttrakhand,5,Rudra Prayag,54
 Uttarakhand,5,Rudraprayag,54
-Uttrakhand,5,Tehri Garhwal,55
 Uttarakhand,5,Tehri Garhwal,55
-Uttrakhand,5,Udam Singh Nagar,56
 Uttarakhand,5,U.S.Nagar,56
-Uttrakhand,5,Uttar Kashi,57
 Uttarakhand,5,Uttarkashi,57
+Uttrakhand,5,Almora,45
+Uttrakhand,5,Bageshwar,46
+Uttrakhand,5,Chamoli,47
+Uttrakhand,5,Champawat,48
+Uttrakhand,5,Dehradun,49
+Uttrakhand,5,Pauri Garhwal,52
+Uttrakhand,5,Haridwar,50
+Uttrakhand,5,Nainital,51
+Uttrakhand,5,Pithoragarh,53
+Uttrakhand,5,Rudra Prayag,54
+Uttrakhand,5,Tehri Garhwal,55
+Uttrakhand,5,Udam Singh Nagar,56
+Uttrakhand,5,Uttar Kashi,57
 West Bengal,19,Bankura,305
 West Bengal,19,Purba Bardhaman,306
 West Bengal,19,Birbhum,307
